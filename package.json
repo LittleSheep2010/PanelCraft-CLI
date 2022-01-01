@@ -1,5 +1,5 @@
 {
-  "name": "PanelCraft",
+  "name": "panelcraft-cli",
   "version": "1.10.1",
   "description": "PanelCraft CLI Client",
   "main": "index.js",
@@ -9,6 +9,13 @@
   "type": "module",
   "bin": {
     "pcl": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LittleSheep2010/PanelCraft-CLI.git"
+  },
+  "publishConfig": {
+    "name": "@littlesheep2010/panelcraft-cli"
   },
   "dependencies": {
     "chalk": "^5.0.0",
