@@ -12,10 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LittleSheep2010/PanelCraft-CLI.git"
-  },
-  "publishConfig": {
-    "name": "@littlesheep2010/panelcraft-cli"
+    "url": "git://github.com/LittleSheep2010/PanelCraft-CLI.git"
   },
   "dependencies": {
     "chalk": "^5.0.0",
